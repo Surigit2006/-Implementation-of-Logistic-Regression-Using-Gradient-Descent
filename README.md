@@ -78,6 +78,8 @@ print("Predicted Result:",y_prednew)
 ## Output:
 ![Screenshot 2024-11-22 09![Screenshot 2024-11-22 090320](https://github.com/user-attachments/assets/7f2ebe1a-a26a-4cd3-a75e-b5fa4f5a5894)
 0254](https://github.com/user-attachments/assets/d732903e-e1fb-4d79-b7bf-0d87096c48f2)
+![Screenshot 2024-11-22 090320](https://github.com/user-attachments/assets/7605ef44-98de-4aaf-80d3-a766ef3f800a)
+
 
 
 ## Result:
